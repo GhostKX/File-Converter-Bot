@@ -1,4 +1,4 @@
-# 📂 Python File Converter Bot  
+# 📂 File Converter Bot  
 
 A **Python-based Telegram bot** that allows users to **convert and manipulate various file formats**.  
 This bot supports **TXT, DOCX, and PDF conversions**, as well as **PDF splitting and merging**.  
