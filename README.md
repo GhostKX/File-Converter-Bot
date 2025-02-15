@@ -47,6 +47,8 @@ pip install -r requirements.txt
 ```
 
 3. Configure the bot
+
+- Create a .env file to store your Telegram API Key
 - Add your Telegram Bot Token:
 
 ```
